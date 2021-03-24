@@ -177,6 +177,7 @@ Signed,
 - Christopher Patti
 - Christopher Schmidt
 - Chris Wayne (Ubuntu)
+- Dr. Chris Zimmermann (Linux Inlaws, FraLUG)
 - Clarissa Borges (GNOME Foundation member)
 - classabbyamp
 - Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
